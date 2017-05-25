@@ -22,7 +22,7 @@ public class ControleLivro extends HttpServlet {
     
 	public ControleLivro() {
 		super();
-		livro = new Livro();
+		livro = new Livro();  
 	}
 	
 	

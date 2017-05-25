@@ -19,7 +19,7 @@ public class Livro {
 		this.idLivro = idLivro;
 		this.titulo = titulo;
 		this.numPaginas = numPaginas;
-		this.autor = autor;
+		this.autor = autor;  
 	}
      
 	

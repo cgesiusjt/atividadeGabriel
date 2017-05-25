@@ -12,7 +12,7 @@ public class manadgBeansListarLIvros {
 	 
 	 
 	 public List<Livro> getListalivro() {
-		listalivro=ControleLivro.lista;
+		listalivro=ControleLivro.lista;  
 		
 		return listalivro; 
 	 }
